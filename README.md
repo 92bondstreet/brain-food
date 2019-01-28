@@ -1,4 +1,4 @@
-# Spinach
+# Brain food
 
 > Newsletters, Podcasts, Indie news... to feed my brain
 
@@ -12,6 +12,7 @@
 * [The Engineering Manager Newsletter](https://us16.campaign-archive.com/home/?u=a4bbe86af54004b4eb77337e3&id=7ee2bf8f4c)
 * [A bi-weekly newsletter on how to become a better leader, written by Claire Lew, CEO of Know Your Team](https://knowyourteam.com/learn/newsletter)
 * [Lara Hogan Newsletter](https://us2.campaign-archive.com/home/?u=1f50ce22f02ed0ffc80c10aff&id=8c0f947e69)
+* [Weekly Software Development Newsletter for Managers](https://blog.gitprime.com/newsletter/)
 
 ## 🎙️ Podcasts
 
