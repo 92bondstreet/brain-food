@@ -13,6 +13,7 @@
 * [A bi-weekly newsletter on how to become a better leader, written by Claire Lew, CEO of Know Your Team](https://knowyourteam.com/learn/newsletter)
 * [Lara Hogan Newsletter](https://us2.campaign-archive.com/home/?u=1f50ce22f02ed0ffc80c10aff&id=8c0f947e69)
 * [Weekly Software Development Newsletter for Managers](https://blog.gitprime.com/newsletter/)
+* [NODESK Newsletter](https://us15.campaign-archive.com/home/?u=b9aaee7603dd29afd03e8bfd8&id=8998017842)
 
 ## 🎙️ Podcasts
 
