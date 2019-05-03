@@ -15,6 +15,7 @@
 * [Weekly Software Development Newsletter for Managers](https://blog.gitprime.com/newsletter/)
 * [NODESK Newsletter](https://us15.campaign-archive.com/home/?u=b9aaee7603dd29afd03e8bfd8&id=8998017842)
 * [Humane Makers – a monthly newsletter for designers and developers who want to make ethical tech](http://humanemakers.com)
+* [Learn By Doing Newsletter](https://www.kylegalbraith.com/learn-by-doing/)
 
 ## 🎙️ Podcasts
 
@@ -23,6 +24,9 @@
 * [Conversations with the hackers, leaders, and innovators of software development](https://changelog.com/podcast)
 * [The REWORK podcast](https://rework.fm/)
 * [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
+* [The INDIE HACKERS podcast](https://www.indiehackers.com/podcast)
+* [The Heartbeat ❤️ Podcast](https://knowyourteam.com/blog/podcast/)
+* [The Remote Show](https://weworkremotely.com/the-remote-show-podcast)
 
 ## 🍲 Discussions
 
