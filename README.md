@@ -16,6 +16,8 @@
 * [NODESK Newsletter](https://us15.campaign-archive.com/home/?u=b9aaee7603dd29afd03e8bfd8&id=8998017842)
 * [Humane Makers – a monthly newsletter for designers and developers who want to make ethical tech](http://humanemakers.com)
 * [Learn By Doing Newsletter](https://www.kylegalbraith.com/learn-by-doing/)
+https://management30.com/newsletter/
+*  [Management 3.0 Newsletter for Better Leadership & Communication](https://management30.com/newsletter)
 
 ## 🎙️ Podcasts
 
@@ -27,6 +29,7 @@
 * [The INDIE HACKERS podcast](https://www.indiehackers.com/podcast)
 * [The Heartbeat ❤️ Podcast](https://knowyourteam.com/blog/podcast/)
 * [The Remote Show](https://weworkremotely.com/the-remote-show-podcast)
+* [The Entrepreneurial Coder Podcast](https://www.ecpodcast.io/)
 
 ## 🍲 Discussions
 
@@ -34,3 +37,6 @@
 * [Top post of the week on dev.to](https://dev.to/top/week)
 * [Top discussion of the week on Indie Hackers](https://www.indiehackers.com)
 * [How I Work - Interviews with famously productive people](https://lifehacker.com/c/how-i-work)
+* [The Know Your Team Blog](https://knowyourteam.com/blog/)
+* [Become as good a leader as you are a coder by Marcus Blankenship](https://marcusblankenship.com/)
+* [How to be a better human](https://ideas.ted.com/tag/how-to-be-a-better-human/)
